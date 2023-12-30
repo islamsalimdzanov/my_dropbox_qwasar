@@ -22,7 +22,6 @@ Create a Dropbox clone with:
 -creating directory
 
 # Description
-
 I made it with firebase and aws amplify
 
 # Installation
